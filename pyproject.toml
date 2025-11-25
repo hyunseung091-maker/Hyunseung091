@@ -1,0 +1,9 @@
+[project]
+name = "hyunseung091"
+version = "0.1.0"
+description = "Minimal Python scaffold created by assistant"
+requires-python = ">=3.10"
+readme = "README.md"
+authors = [ { name = "hyunseung091", email = "dev@example.com" } ]
+
+[tool]
